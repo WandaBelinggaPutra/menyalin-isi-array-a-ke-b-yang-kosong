@@ -1,0 +1,1 @@
+# menyalin-isi-array-a-ke-b-yang-kosong
